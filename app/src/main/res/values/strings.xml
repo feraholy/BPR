@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">BattleGround\'s Paid Room</string>
+    <string name="app_name_small">BattleGround\'s Paid Room</string>
+    <string name="name1">BattleGround\'s</string>
+    <string name="paid_room">Paid Room</string>
+    <string name="email">Email</string>
+    <string name="password">Password:</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="enter_email1">Enter Email</string>
+    <string name="log_in1">Log In</string>
+    <string name="enter_password1">Enter Password</string>
+    <string name="sign_up_click"><u>Sign Up</u></string>
+    <string name="new_user">New User?</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="usern_ame">Username</string>
+    <string name="email_username">Email/Username</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="already_a_member">Already A Member?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mail_sent">Verification Email Sent!</string>
+    <string name="please_verify">Please! Verify Your Email!</string>
+    <string name="confirm">Confirm</string>
+    <string name="password_reset">Password Reset Successfully</string>
+    <string name="check_email">Check Email!</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="battleground_s_paid_room">Battleground\'s Paid Room</string>
+    <string name="play">Play</string>
+    <string name="live">Live</string>
+    <string name="result">Result</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_career">My Career</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="already_joined">Already Joined</string>
+    <string name="played">Played</string>
+    <string name="pubg_mobile">PUBG Mobile</string>
+    <string name="pubg_mobile_logo">Pubg Mobile Logo</string>
+    <string name="free_fire">Free Fire</string>
+    <string name="ros_logo">ROS Logo</string>
+    <string name="ros">ROS</string>
+    <string name="freefire_logo">FreeFire Logo</string>
+    <string name="_0_match_available">0 Match Available</string>
+    <string name="didnot_play_pubg">You Didn\'t Played Any PUBG Match</string>
+    <string name="didnot_play_freefire">You Didn\'t Played Any Freefire Match</string>
+
+    <string name="news_stuffs"><![CDATA[News & Stuffs]]></string>
+    <string name="peopleJoined">/100 People Joined</string>
+
+
+    <string-array name="gamelistArray">
+        <item>PUBG</item>
+        <item>Freefire</item>
+    </string-array>
+    <string-array name="adminBalance">
+        <item>Balance</item>
+        <item>Winning Balance</item>
+    </string-array>
+
+</resources>
