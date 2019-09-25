@@ -6,6 +6,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 
 public class BottomPageAdapter extends FragmentPagerAdapter {
     private int numOfTab;
+
     BottomPageAdapter(FragmentManager fm,int numOfTab) {
         super(fm);
         this.numOfTab=numOfTab;
